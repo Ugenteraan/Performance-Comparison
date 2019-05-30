@@ -4,7 +4,7 @@ In this repository, different methods of performing a particular task will be te
 
 |                |REPO                          |DESC                         |
 |----------------|-------------------------------|-----------------------------|
-|1)|`Storing_Acessing_Images`            |Different methods of storing and reading large number of image files.            |
+|1)|`Store_Acess_Images`            |Different methods of storing and reading large number of image files.            |
 |             |           |
 
 
