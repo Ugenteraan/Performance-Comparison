@@ -2,7 +2,10 @@
 
 In this repository, different methods of performing a particular task will be tested out and compared with each other.
 
-1. Storing and Accessing large number of images
+|                |REPO                          |DESC                         |
+|----------------|-------------------------------|-----------------------------|
+|1)|`Storing_Acessing_Images`            |Different methods of storing and reading large number of image files.            |
+|             |           |
 
 
 
