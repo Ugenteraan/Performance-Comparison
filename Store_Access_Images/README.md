@@ -9,7 +9,8 @@
 
 1. OpenCV
 2. Matplotlib
-3. HDF5
+3. Pillow
+4. HDF5
 
 ## Summary
 
