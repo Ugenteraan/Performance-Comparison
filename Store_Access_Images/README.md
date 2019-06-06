@@ -15,9 +15,9 @@
 ## Summary
 
 ### Storing methods comparison graph
-![](storing.png)
+![](store.png)
 
 ### Reading methods comparison graph
-![](reading.png)
+![](read.png)
 
 
