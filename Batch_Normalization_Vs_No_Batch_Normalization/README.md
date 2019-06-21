@@ -5,10 +5,10 @@ In the script, there are two models with the same architecture except that one h
 ## Summary
 
 ### Loss Comparison
-![]loss.png
+![](loss.png)
 
 ### Accuracy Comparison
-![]accuracy.png
+![](accuracy.png)
 
 
 **License**
