@@ -4,10 +4,12 @@ In the script, there are two models with the same architecture except that one h
 
 ## Summary
 
-### Loss Comparison
+
+### Training Loss Comparison
 ![](loss.png)
 
-### Accuracy Comparison
+
+### Training Accuracy Comparison
 ![](accuracy.png)
 
 
